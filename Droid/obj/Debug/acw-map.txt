@@ -1,0 +1,6 @@
+WebViewApp.Droid.MainActivity, WebViewApp.Droid;crc64fb6ea9e30f5757df.MainActivity
+WebViewApp.Droid.MainActivity;crc64fb6ea9e30f5757df.MainActivity
+webviewapp.droid.MainActivity;crc64fb6ea9e30f5757df.MainActivity
+WebViewApp.Droid.WebViewActivity, WebViewApp.Droid;crc64fb6ea9e30f5757df.WebViewActivity
+WebViewApp.Droid.WebViewActivity;crc64fb6ea9e30f5757df.WebViewActivity
+webviewapp.droid.WebViewActivity;crc64fb6ea9e30f5757df.WebViewActivity
